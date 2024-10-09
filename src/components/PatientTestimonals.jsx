@@ -7,12 +7,7 @@ const PatientTestimonials = () => {
       <div className="flex-none w-full sm:w-1/2 md:w-1/3 p-4">
         <Patient />
       </div>
-      <div className="flex-none w-full sm:w-1/2 md:w-1/3 p-4">
-        <Patient />
-      </div>
-      <div className="flex-none w-full sm:w-1/2 md:w-1/3 p-4">
-        <Patient />
-      </div>
+      
     </div>
   );
 };
